@@ -1,0 +1,86 @@
+<topics>
+    <topic name="تعلم البرمجة">
+        <link>https://www.w3schools.com</link>
+        <link>https://www.codecademy.com</link>
+        <link>https://www.freecodecamp.org</link>
+        <link>https://www.pluralsight.com</link>
+        <link>https://www.theodinproject.com</link>
+        <link>https://www.sololearn.com</link>
+        <link>https://exercism.org</link>
+        <link>https://www.codewars.com</link>
+    </topic>
+    <topic name="الذكاء الاصطناعي">
+        <link>https://www.coursera.org</link>
+        <link>https://www.edx.org</link>
+        <link>https://www.udemy.com</link>
+        <link>https://www.fast.ai</link>
+        <link>https://www.deeplearning.ai</link>
+        <link>https://www.elementsofai.com</link>
+        <link>https://ai.google/education</link>
+        <link>https://www.openai.com/resources</link>
+    </topic>
+    <topic name="تعلم الآلة">
+        <link>https://www.kaggle.com</link>
+        <link>https://www.tensorflow.org</link>
+        <link>https://pytorch.org</link>
+        <link>https://scikit-learn.org</link>
+        <link>https://ml.berkeley.edu</link>
+        <link>https://developers.google.com/machine-learning</link>
+    </topic>
+    <topic name="تطوير المواقع">
+        <link>https://www.frontendmasters.com</link>
+        <link>https://www.udacity.com</link>
+        <link>https://www.mdn.dev</link>
+        <link>https://css-tricks.com</link>
+        <link>https://javascript.info</link>
+        <link>https://www.smashingmagazine.com</link>
+    </topic>
+    <topic name="الأمن السيبراني">
+        <link>https://www.hackthebox.eu</link>
+        <link>https://www.tryhackme.com</link>
+        <link>https://www.cybrary.it</link>
+        <link>https://www.offensive-security.com</link>
+        <link>https://portswigger.net/web-security</link>
+        <link>https://www.sans.org/cyber-security-courses</link>
+    </topic>
+    <topic name="علم البيانات">
+        <link>https://www.datacamp.com</link>
+        <link>https://www.analyticsvidhya.com</link>
+        <link>https://www.towardsdatascience.com</link>
+        <link>https://www.datasciencecentral.com</link>
+        <link>https://www.kdnuggets.com</link>
+        <link>https://www.dataquest.io</link>
+    </topic>
+    <topic name="الحوسبة السحابية">
+        <link>https://aws.amazon.com/training</link>
+        <link>https://www.cloudacademy.com</link>
+        <link>https://acloud.guru</link>
+        <link>https://learn.microsoft.com/azure</link>
+        <link>https://cloud.google.com/training</link>
+        <link>https://www.digitalocean.com/community/tutorials</link>
+    </topic>
+    <topic name="تطوير تطبيقات الموبايل">
+        <link>https://developer.android.com</link>
+        <link>https://developer.apple.com</link>
+        <link>https://flutter.dev</link>
+        <link>https://reactnative.dev</link>
+        <link>https://ionicframework.com</link>
+        <link>https://kotlinlang.org</link>
+    </topic>
+    <topic name="البلوكتشين">
+        <link>https://www.blockchain.com/learning-portal</link>
+        <link>https://ethereum.org/learn</link>
+        <link>https://www.binance.academy</link>
+        <link>https://web3.university</link>
+        <link>https://cryptozombies.io</link>
+        <link>https://buildspace.so</link>
+    </topic>
+    <topic name="إنترنت الأشياء">
+        <link>https://www.raspberrypi.org</link>
+        <link>https://www.arduino.cc</link>
+        <link>https://www.particle.io</link>
+        <link>https://www.edx.org/learn/iot</link>
+        <link>https://www.coursera.org/specializations/iot</link>
+        <link>https://www.nodered.org</link>
+    </topic>
+</topics>
